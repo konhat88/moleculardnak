@@ -1,0 +1,192 @@
+[
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/molecular.cc.o -c /home/konstantinos/kpap/moleculardna/molecular.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/molecular.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/ActionInitialization.cc.o -c /home/konstantinos/kpap/moleculardna/src/ActionInitialization.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/ActionInitialization.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/AnalysisManager.cc.o -c /home/konstantinos/kpap/moleculardna/src/AnalysisManager.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/AnalysisManager.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/AnalysisMessenger.cc.o -c /home/konstantinos/kpap/moleculardna/src/AnalysisMessenger.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/AnalysisMessenger.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/ChemistryList.cc.o -c /home/konstantinos/kpap/moleculardna/src/ChemistryList.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/ChemistryList.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/ChromosomeFactory.cc.o -c /home/konstantinos/kpap/moleculardna/src/ChromosomeFactory.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/ChromosomeFactory.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/ChromosomeHit.cc.o -c /home/konstantinos/kpap/moleculardna/src/ChromosomeHit.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/ChromosomeHit.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/ChromosomeMapper.cc.o -c /home/konstantinos/kpap/moleculardna/src/ChromosomeMapper.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/ChromosomeMapper.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/ChromosomeMessenger.cc.o -c /home/konstantinos/kpap/moleculardna/src/ChromosomeMessenger.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/ChromosomeMessenger.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/CylindricalChromosome.cc.o -c /home/konstantinos/kpap/moleculardna/src/CylindricalChromosome.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/CylindricalChromosome.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/DNAGeometry.cc.o -c /home/konstantinos/kpap/moleculardna/src/DNAGeometry.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/DNAGeometry.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/DNAGeometryMessenger.cc.o -c /home/konstantinos/kpap/moleculardna/src/DNAGeometryMessenger.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/DNAGeometryMessenger.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/DNAHashing.cc.o -c /home/konstantinos/kpap/moleculardna/src/DNAHashing.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/DNAHashing.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/DNAHit.cc.o -c /home/konstantinos/kpap/moleculardna/src/DNAHit.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/DNAHit.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/DNAWorld.cc.o -c /home/konstantinos/kpap/moleculardna/src/DNAWorld.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/DNAWorld.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/DamageModel.cc.o -c /home/konstantinos/kpap/moleculardna/src/DamageModel.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/DamageModel.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/DamageModelMessenger.cc.o -c /home/konstantinos/kpap/moleculardna/src/DamageModelMessenger.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/DamageModelMessenger.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/DetectorConstruction.cc.o -c /home/konstantinos/kpap/moleculardna/src/DetectorConstruction.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/DetectorConstruction.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/DetectorMessenger.cc.o -c /home/konstantinos/kpap/moleculardna/src/DetectorMessenger.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/DetectorMessenger.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/EllipticalChromosome.cc.o -c /home/konstantinos/kpap/moleculardna/src/EllipticalChromosome.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/EllipticalChromosome.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/EventAction.cc.o -c /home/konstantinos/kpap/moleculardna/src/EventAction.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/EventAction.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/IRTDamageReactionModel.cc.o -c /home/konstantinos/kpap/moleculardna/src/IRTDamageReactionModel.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/IRTDamageReactionModel.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/OctreeNode.cc.o -c /home/konstantinos/kpap/moleculardna/src/OctreeNode.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/OctreeNode.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/ParallelWorldPhysics.cc.o -c /home/konstantinos/kpap/moleculardna/src/ParallelWorldPhysics.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/ParallelWorldPhysics.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/PhysicsList.cc.o -c /home/konstantinos/kpap/moleculardna/src/PhysicsList.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/PhysicsList.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/PlacementVolumeInfo.cc.o -c /home/konstantinos/kpap/moleculardna/src/PlacementVolumeInfo.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/PlacementVolumeInfo.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/PrimaryGeneratorAction.cc.o -c /home/konstantinos/kpap/moleculardna/src/PrimaryGeneratorAction.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/PrimaryGeneratorAction.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/PrimaryGeneratorMessenger.cc.o -c /home/konstantinos/kpap/moleculardna/src/PrimaryGeneratorMessenger.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/PrimaryGeneratorMessenger.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/PrimaryGeneratorSourceGRASCSV.cc.o -c /home/konstantinos/kpap/moleculardna/src/PrimaryGeneratorSourceGRASCSV.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/PrimaryGeneratorSourceGRASCSV.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/RodChromosome.cc.o -c /home/konstantinos/kpap/moleculardna/src/RodChromosome.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/RodChromosome.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/RunAction.cc.o -c /home/konstantinos/kpap/moleculardna/src/RunAction.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/RunAction.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/SphericalChromosome.cc.o -c /home/konstantinos/kpap/moleculardna/src/SphericalChromosome.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/SphericalChromosome.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/StackingAction.cc.o -c /home/konstantinos/kpap/moleculardna/src/StackingAction.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/StackingAction.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/SteppingAction.cc.o -c /home/konstantinos/kpap/moleculardna/src/SteppingAction.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/SteppingAction.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/TimeStepAction.cc.o -c /home/konstantinos/kpap/moleculardna/src/TimeStepAction.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/TimeStepAction.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/TrackingAction.cc.o -c /home/konstantinos/kpap/moleculardna/src/TrackingAction.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/TrackingAction.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/UtilityFunctions.cc.o -c /home/konstantinos/kpap/moleculardna/src/UtilityFunctions.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/UtilityFunctions.cc"
+},
+{
+  "directory": "/home/konstantinos/kpap/moleculardna/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/konstantinos/kpap/moleculardna/include -isystem /home/konstantinos/software/geant4-v11.2.2/install/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/molecular.dir/src/VirtualChromosome.cc.o -c /home/konstantinos/kpap/moleculardna/src/VirtualChromosome.cc",
+  "file": "/home/konstantinos/kpap/moleculardna/src/VirtualChromosome.cc"
+}
+]
